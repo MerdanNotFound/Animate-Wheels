@@ -9,6 +9,11 @@ public class animatedWheels : MonoBehaviour
 
     void Start()
     {
+        
+    }
+
+    void FixedUpdate()
+    {
         animateWheels();
     }
 
